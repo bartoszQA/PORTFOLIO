@@ -33,3 +33,33 @@ PROJEKT KAPU$TA
 
 ☑️<a href="https://qa.m.goit.global/pl/"  target="_blank">4-Day Marathon QA Engineer<a/>
 * Learning specifications, creating test cases, creating bug reports, Jira, TestRail.
+
+## <a name="apps">THE CODDING APPS - TRAINING</a>
+
+- [**MIMO**](https://mimo.org/) 
+
+  ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&logo=sqlite)
+
+- [**ENKI**](https://www.enki.com/) 
+
+  ![](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logoColor=white&logo=git)
+
+- [**SOLOLEARN**](https://www.sololearn.com/?v=2) 
+  ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=white&logo=html5) ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=white&logo=css3)
+
+## <a name="books">BOOKS ABOUT TESTING</a>
+
+* Pasja testowania (Krzysztof Jadczyk)
+* Zawód tester (Radosław Smilgin)
+* Praktyka testowania (Radosław Smilgin)
+ 
+## <a name="blogs">RECOMMENDED BLOGS ABOUT TESTING</a>
+
+* [testerzy.pl](https://testerzy.pl/)
+
+## <a name="face">GROUPS ABOUT TESTING ON FACEBOOK</a>
+
+* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+* [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
