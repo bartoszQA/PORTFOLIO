@@ -22,6 +22,10 @@ PROJEKT KAPU$TA
 
 ## <a name="bugreport">BUG REPORT example</a>
 
+### Other
+
+* [Błąd literowy w ogłoszeniu o pracę](https://drive.google.com/file/d/1fPZZ5LH8XdIBj8kds8Hc7vz9zZbQ9kiJ/view?usp=sharing)
+
 ## <a name="courses">COURSES</a>
 
 ### February 2023 - July 2023
