@@ -60,6 +60,8 @@ PROJEKT KAPU$TA
 ## <a name="blogs">RECOMMENDED BLOGS ABOUT TESTING</a>
 
 * [testerzy.pl](https://testerzy.pl/)
+* [testuj.pl](https://testuj.pl/)
+* [bugfreeblog.com](https://bugfreeblog.com/)
 
 ## <a name="face">GROUPS ABOUT TESTING ON FACEBOOK</a>
 
