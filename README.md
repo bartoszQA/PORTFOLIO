@@ -30,10 +30,10 @@ PROJEKT KAPU$TA
 
 ### September 2023
 
-### February 2023 - July 2023
-
 ☑️<a href="https://www.utest.com/academy"  target="_blank">uTest Academy</a>
 * Testing basics, AcademyBugs.com, Browser logs, Usability testing, Payment testing
+
+### February 2023 - July 2023
 
 ☑️<a href="https://goit.global/pl/courses/qa/"  target="_blank">GoIT | QA Engineer</a>
 * Test management, application architecture, API testing, SQL, CI/CD, mobile testing.
