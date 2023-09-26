@@ -45,18 +45,6 @@ PROJEKT KAPU$TA
 
 ## <a name="apps">THE CODDING APPS - TRAINING</a>
 
-- [**MIMO**](https://mimo.org/) 
-
-  ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&logo=sqlite)
-
-- [**ENKI**](https://www.enki.com/) 
-
-  ![](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logoColor=white&logo=git)
-
-- [**SOLOLEARN**](https://www.sololearn.com/?v=2) 
-
-  ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=white&logo=html5) ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=white&logo=css3)
-
 ## <a name="books">BOOKS ABOUT TESTING</a>
 
 * Pasja testowania (Krzysztof Jadczyk)
