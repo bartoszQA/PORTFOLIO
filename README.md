@@ -28,6 +28,11 @@ PROJEKT KAPU$TA
 
 ## <a name="courses">COURSES</a>
 
+### September 2023 - October 2023
+
+☑️<a href="https://m.goit.global/pl/"  target="_blank">7-Day Marathon HTML + CSS<a/>
+* HTML basics, CSS basics, Visual Studio Code basics, Figma basics, website project with CV example
+
 ### September 2023
 
 ☑️<a href="https://www.utest.com/academy"  target="_blank">uTest Academy</a>
@@ -48,8 +53,7 @@ PROJEKT KAPU$TA
 ## <a name="books">BOOKS ABOUT TESTING</a>
 
 * Pasja testowania (Krzysztof Jadczyk)
-* Zawód tester (Radosław Smilgin)
-* Praktyka testowania (Radosław Smilgin)
+* Zawód tester (Radosław Smilgin) - in progress
  
 ## <a name="blogs">RECOMMENDED BLOGS ABOUT TESTING</a>
 
