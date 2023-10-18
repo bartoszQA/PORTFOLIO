@@ -28,6 +28,11 @@ PROJEKT KAPU$TA
 
 ## <a name="courses">COURSES</a>
 
+### October 2023
+
+☑️<a href="https://www.udemy.com/certificate/UC-1cad2755-d10a-47c1-90f8-7222de173afa/"  target="_blank">Practical software testing course by Rafał Podraza</a>
+* Testing theory, Jira, TestLink, Chrome Devtools, Browserstack, Jmeter, SQL, API testing
+
 ### September 2023 - October 2023
 
 ☑️<a href="https://m.goit.global/pl/"  target="_blank">7-Day Marathon HTML + CSS<a/>
