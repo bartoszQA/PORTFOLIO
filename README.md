@@ -36,7 +36,7 @@ PROJEKT KAPU$TA
 ### September 2023 - October 2023
 
 ☑️<a href="https://m.goit.global/pl/"  target="_blank">7-Day Marathon HTML + CSS<a/>
-* HTML basics, CSS basics, Visual Studio Code basics, Figma basics, [website project with CV example](https://6525446f2e10af1bb7c98a05--strong-kelpie-d9d9d5.netlify.app/)
+* HTML basics, CSS basics, Visual Studio Code basics, Figma basics, Website project 
 
 ### September 2023
 
